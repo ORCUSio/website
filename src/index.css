@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+section {
+  padding: 0 12rem 0 12rem;
+  margin-bottom: 8rem;
+}
